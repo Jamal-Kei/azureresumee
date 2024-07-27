@@ -23,5 +23,8 @@ After writing the code , I used the extension Visual studio code which is the az
 Obstacles 
 I had an issue in azure which was my images were not showing when i pasted the azure url into google . This was due to an error in the file path for my images . After endlessly searching the web to discover this issue , this issue was a lot minor than I had imagined . 
 
+5. Building CI/CD Pipeline
+
+This allowed me to automate the software development process, from code integration to deployment. In this section, I created unit tests to test my Azure function code as part of its deployment workflow. These tests ensured that the functions performed as expected before they were deployed, catching potential issues early in the development cycle. Implementing unit tests as part of the CI/CD pipeline not only improved the reliability and quality of the code but also facilitated quicker iterations and updates, enhancing overall project efficiency.
 
 
