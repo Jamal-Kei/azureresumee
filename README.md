@@ -1,3 +1,7 @@
+Custom Domain : https://jamalsresume.uk/
+
+Azure link : https://azureresumeacgg.z35.web.core.windows.net/
+
 Hello , to whoever reads this . This will just be a summary of how I got on with this projects , things i realised on this project and any obstacles I came across and how i resolved them .
 
 1. Building the front end
